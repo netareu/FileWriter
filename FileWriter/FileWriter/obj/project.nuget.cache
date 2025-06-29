@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2F6ac+esDGU=",
+  "dgSpecHash": "6GT9yE64BR0=",
   "success": true,
   "projectFilePath": "C:\\Code\\FileWriter\\FileWriter\\FileWriter\\FileWriter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Neta\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Neta\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

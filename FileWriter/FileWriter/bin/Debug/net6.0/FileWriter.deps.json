@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileWriter/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "9.0.6"
+        },
+        "runtime": {
+          "FileWriter.dll": {}
+        }
+      },
+      "System.Drawing.Common/9.0.6": {
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.625.26605"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileWriter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Drawing.Common/9.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KpPB6e7PYCalslhmq/dVa2tJgCcfUDhEK83j1Eix+BmEcNPP00JJBvFrBT7jGcHLmQzsIA4AthwNFkk+cD3RKA==",
+      "path": "system.drawing.common/9.0.6",
+      "hashPath": "system.drawing.common.9.0.6.nupkg.sha512"
+    }
+  }
+}

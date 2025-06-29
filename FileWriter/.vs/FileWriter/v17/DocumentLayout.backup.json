@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Code\\FileWriter\\FileWriter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4392B08D-DD01-42D5-BFAA-BE04313EE8D9}|FileWriter\\FileWriter.csproj|c:\\code\\filewriter\\filewriter\\filewriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4392B08D-DD01-42D5-BFAA-BE04313EE8D9}|FileWriter\\FileWriter.csproj|solutionrelative:filewriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4392B08D-DD01-42D5-BFAA-BE04313EE8D9}|FileWriter\\FileWriter.csproj|c:\\code\\filewriter\\filewriter\\filewriter\\basefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4392B08D-DD01-42D5-BFAA-BE04313EE8D9}|FileWriter\\FileWriter.csproj|solutionrelative:filewriter\\basefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4392B08D-DD01-42D5-BFAA-BE04313EE8D9}|FileWriter\\FileWriter.csproj|c:\\code\\filewriter\\filewriter\\filewriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4392B08D-DD01-42D5-BFAA-BE04313EE8D9}|FileWriter\\FileWriter.csproj|solutionrelative:filewriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4392B08D-DD01-42D5-BFAA-BE04313EE8D9}|FileWriter\\FileWriter.csproj|c:\\code\\filewriter\\filewriter\\filewriter\\appconfigimagefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4392B08D-DD01-42D5-BFAA-BE04313EE8D9}|FileWriter\\FileWriter.csproj|solutionrelative:filewriter\\appconfigimagefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AppConfigImageFinder.cs",
+              "DocumentMoniker": "C:\\Code\\FileWriter\\FileWriter\\FileWriter\\AppConfigImageFinder.cs",
+              "RelativeDocumentMoniker": "FileWriter\\AppConfigImageFinder.cs",
+              "ToolTip": "C:\\Code\\FileWriter\\FileWriter\\FileWriter\\AppConfigImageFinder.cs",
+              "RelativeToolTip": "FileWriter\\AppConfigImageFinder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:25:20.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BaseFileWriter.cs",
               "DocumentMoniker": "C:\\Code\\FileWriter\\FileWriter\\FileWriter\\BaseFileWriter.cs",
               "RelativeDocumentMoniker": "FileWriter\\BaseFileWriter.cs",
               "ToolTip": "C:\\Code\\FileWriter\\FileWriter\\FileWriter\\BaseFileWriter.cs",
               "RelativeToolTip": "FileWriter\\BaseFileWriter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T08:15:57.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\FileWriter\\FileWriter\\FileWriter\\Program.cs",
               "RelativeDocumentMoniker": "FileWriter\\Program.cs",
               "ToolTip": "C:\\Code\\FileWriter\\FileWriter\\FileWriter\\Program.cs",
               "RelativeToolTip": "FileWriter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T08:14:30.15Z",
               "EditorCaption": ""

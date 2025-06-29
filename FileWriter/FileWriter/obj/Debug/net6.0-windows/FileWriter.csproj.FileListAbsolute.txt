@@ -1,0 +1,16 @@
+C:\Code\FileWriter\FileWriter\FileWriter\bin\Debug\net6.0-windows\FileWriter.exe
+C:\Code\FileWriter\FileWriter\FileWriter\bin\Debug\net6.0-windows\FileWriter.dll.config
+C:\Code\FileWriter\FileWriter\FileWriter\bin\Debug\net6.0-windows\FileWriter.deps.json
+C:\Code\FileWriter\FileWriter\FileWriter\bin\Debug\net6.0-windows\FileWriter.runtimeconfig.json
+C:\Code\FileWriter\FileWriter\FileWriter\bin\Debug\net6.0-windows\FileWriter.dll
+C:\Code\FileWriter\FileWriter\FileWriter\bin\Debug\net6.0-windows\FileWriter.pdb
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\FileWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\FileWriter.AssemblyInfoInputs.cache
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\FileWriter.AssemblyInfo.cs
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\FileWriter.csproj.CoreCompileInputs.cache
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\FileWriter.sourcelink.json
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\FileWriter.dll
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\refint\FileWriter.dll
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\FileWriter.pdb
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\FileWriter.genruntimeconfig.cache
+C:\Code\FileWriter\FileWriter\FileWriter\obj\Debug\net6.0-windows\ref\FileWriter.dll
