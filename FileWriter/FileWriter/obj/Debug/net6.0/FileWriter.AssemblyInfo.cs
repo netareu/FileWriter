@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileWriter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb7eea0b1dbd69baad353137b743845a712c64d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fd7e366b58a838db46c2daf36704a50b07395d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileWriter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileWriter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
